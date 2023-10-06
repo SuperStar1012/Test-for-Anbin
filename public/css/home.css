@@ -1,0 +1,43 @@
+.header_view {
+    padding-left: 20px;
+    display: flex;
+    flex-direction: row;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    align-items: center;
+}
+h3 {
+    color: red
+}
+.container {
+    padding: 30;
+}
+.upload_button {
+    margin-left: 30px;
+    color: red;
+}
+.choose_button {
+    margin-left: 30px;
+}
+
+.content {
+    margin-top: 30px;
+    width: 100%;
+}
+table,
+td,
+th {
+    border: 1px solid #ddd;
+    text-align: left;
+    text-align: center;
+}
+table {
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+th,
+td {
+    padding: 15px;
+}
